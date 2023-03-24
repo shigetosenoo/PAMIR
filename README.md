@@ -1,0 +1,2 @@
+# PAMIR
+Project Sota
